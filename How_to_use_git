@@ -1,0 +1,43 @@
+
+Download/Install git;
+
+1.
+In an new folder: git init.
+
+2. Clone:
+
+git clone https:/**
+Or	git clone username@host:/path_to_repository
+
+// Start to use.
+
+3. Add file
+
+After edit the file. i.e., "vim file1"
+
+git add <file1> //Or "git add *" to add all new files
+
+4. Add comments
+
+git commit -m "Message"
+
+5. Push
+
+git push // Or "git push origin master" for first push. Or "git remote add  origin <server>"
+
+
+6. Pull
+
+git pull
+
+7. See all the log
+
+git log.
+
+For more info, visit:
+http://rogerdudler.github.io/git-guide/index.zh.html
+
+
+
+
+
